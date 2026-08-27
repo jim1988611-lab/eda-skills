@@ -1,0 +1,4 @@
+interface:
+  display_name: "PyAEDT Package Thermal"
+  short_description: "Route audited Icepak package thermal and coupled-tool workflows"
+  default_prompt: "Use $pyaedt to route and prepare an audited Icepak package thermal workflow, including optional HFSS, Maxwell, PyEDB, Mechanical, Fluent, or RedHawk-SC coupling."
